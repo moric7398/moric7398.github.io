@@ -915,3 +915,5 @@ rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
 
 
 google.com, pub-5413329544040947, RESELLER, f08c47fec0942fa0
+
+google.com, pub-1203052502457839, DIRECT, f08c47fec0942fa0
