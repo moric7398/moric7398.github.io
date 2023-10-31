@@ -1,11 +1,4 @@
-appbroda.com, 78, DIRECT
-google.com, pub-8049894195330131, DIRECT, f08c47fec0942fa0
-
-
-google.com, pub-7839649756834603, DIRECT, f08c47fec0942fa0
-
-
-
+profitsence.com, 22457, DIRECT
 google.com, pub-4694176339557861, DIRECT, f08c47fec0942fa0
 google.com, pub-1500926508143984, DIRECT, f08c47fec0942fa0
 google.com, pub-9787214835339912, DIRECT, f08c47fec0942fa0
@@ -228,7 +221,6 @@ targetspot.com, 312, RESELLER, feb28ed826dcf532
 lkqd.net, 626, RESELLER, 59c49fa9598a0117
 admixer.co.kr, 1511, RESELLER
 contextweb.com, 562329, RESELLER, 89ff185a4c4e857c
-profitsence.com, 22457, DIRECT
 pubmatic.com, 161372, RESELLER, 5d62403b186f2ace
 consumable.com, 2001470, RESELLER, aefcd3d2f45b5070
 freewheel.tv, 1585652, RESELLER
@@ -274,7 +266,11 @@ meitu.com, 699, RESELLER
 video.unrulymedia.com, 115018688080045007, RESELLER
 adingo.jp, 30201, RESELLER
 d-sail.com, ds0703, DIRECT
+appbroda.com, 78, DIRECT
+google.com, pub-8049894195330131, DIRECT, f08c47fec0942fa0
 
+
+google.com, pub-7839649756834603, DIRECT, f08c47fec0942fa0
 google.com, pub-2290755540215120, DIRECT, f08c47fec0942fa0
 vdo.ai, 3669, DIRECT
 atlas5.co, 3669, DIRECT
@@ -323,6 +319,7 @@ rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
 Media.net, 8CUGIC7K8, DIRECT
 mgid.com, 640737, DIRECT, d4c29acad76ce94f
 themediagrid.com, J8FXQA, DIRECT, 35d5010d7789b49d
+
 
 
 google.com, pub-9546179864759144, DIRECT, f08c47fec0942fa0 #purple
