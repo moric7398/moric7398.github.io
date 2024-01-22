@@ -1,4 +1,5 @@
-
+google.com, pub-2960293519697422, DIRECT, f08c47fec0942fa0
+gameadzone.com, 1546, DIRECT
 media.net, 8CUD06Z68, RESELLER
 openx.com, 540785403, RESELLER, 6a698e2ec38604c6
 pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
