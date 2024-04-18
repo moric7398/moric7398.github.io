@@ -29,6 +29,9 @@ outbrain.com,002d7f7ba0bd74452f2b155d0dfb5cd6c8,RESELLER
 adingo.jp, 30932, RESELLER
 
 
+sorbet.live, s15335, RESELLER
+google.com, pub-4219948434523868, RESELLER, f08c47fec0942fa0
+
 google.com, pub-2960293519697422, DIRECT, f08c47fec0942fa0
 gameadzone.com, 1546, DIRECT
 media.net, 8CUD06Z68, RESELLER
